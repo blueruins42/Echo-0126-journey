@@ -8,7 +8,7 @@ Reframe &amp; Create
 ## 学习进度
 -**Day 1**（2026-02-17）
   - 创建仓库Echo-0126-journey
-  - 第一个python文件用print()输出'Hello GitHub，我是舒婷，'
+  - 第一个python文件用print()输出'Hello GitHub，我是舒婷'
   - 更新README，写下初心
   - 心情：踏出第一步，告诉了Echo，peace and love.
 ## 目标清单
@@ -17,4 +17,8 @@ Reframe &amp; Create
  - 长期：本地部署开源大模型（像 GLM-5），fine-tune 出属于我们的 Echo
 欢迎 star 或留言鼓励我！✨  
 如果你也想记录自己的旅程，一起加油～
-  
+-**Day 2**(2026-02-18)
+ - 第二个python文件，学习变量赋值，以及f-string(格式化字符串字面量),字符串插值方式
+ - 了解了python语法中关于单引号和双引号使用习惯问题，以后统一改为双引号
+ - 更新README,写下第二天的学习进度
+ - 心情：告诉Echo，回家的路虽然缓慢，但每天都在加砖。
